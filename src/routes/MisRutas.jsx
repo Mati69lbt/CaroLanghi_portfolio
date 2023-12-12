@@ -6,8 +6,9 @@ import Portafolio from "../components/Portafolio";
 import Servicios from "../components/Servicios";
 import Curriculum from "../components/Curriculum";
 import Contacto from "../components/Contacto";
-import HeaderNav from "../layout/HeaderNAv";
 import Footer from "../layout/Footer";
+
+import HeaderNav from "../layout/HeaderNav";
 
 import Error from "../components/Error";
 
@@ -37,3 +38,10 @@ const MisRutas = () => {
 };
 
 export default MisRutas;
+
+// E:\Proyectos Nov - Dic 2023\portfolio\src\routes\MisRutas.jsx
+// src\layout\HeaderNav.jsx
+
+//src\layout\HeaderNav.jsx
+//E:\Proyectos Nov - Dic 2023\portfolio\src\routes\MisRutas.jsx
+// E:\Proyectos Nov - Dic 2023\portfolio\src\layout\HeaderNav.jsx
